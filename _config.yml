@@ -92,6 +92,15 @@ ignore:
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
+plugins:
+  gitalk:
+    clientID: c96b38169b716996020c
+    clientSecret: 3fcbe81a165d280f53ec52a96002f83ef611d556
+    repo: latteotw.github.io
+    owner: latteotw
+    admin:
+      - latteotw
+    distractionFreeMode: false
 ## Themes: https://hexo.io/themes/
 theme: material-x
 
