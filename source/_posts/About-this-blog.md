@@ -32,8 +32,8 @@ so that readers can get a general idea of the big picture of data structures and
 * **Basic knowledge of Python.** We will use Python3 and I will also try to cover some
 basic programming knowledge about Python
 * **Leetcode access.** You can register it for free.
-* **Basic knowledge of data structures** like array, strings, hashmap and etc. I
-won't assume any advanced knowledge of complicated data structure such as tree and graph.
+* **Basic knowledge of data structures** like array, strings, hashmap and etc. I won't
+assume any advanced knowledge of complicated data structure such as tree and graph.
 Knowledge of algorithms are not required as learning them together is the main purpose
 of this blog.
 
