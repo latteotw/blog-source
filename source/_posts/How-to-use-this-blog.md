@@ -2,7 +2,6 @@
 title: How to use this blog
 date: 2020-02-02 21:56:58
 tags: Misc
-top: true
 categories:
 - [Misc, General]
 gitalk:
@@ -25,6 +24,6 @@ as I will keep updating them as I proceed.
 
 ## Step 4
 Follow my new posts by tags or categories and practice on your own.
-
+<!-- more -->
 # Search for answers of problems
 Use the search box on top of the website to search the keyword or browse by category.
