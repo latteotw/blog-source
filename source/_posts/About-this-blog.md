@@ -12,6 +12,9 @@ I started writing this blog as a memo for my coding interview preparation proces
 At the mean while, I hope readers can find useful contents in this blog, either
 you are preparing for coding interview the same as me, or just hoping to sharp your
 data structures and algorithms.
+
+<!-- more -->
+
 # Approaches
 * I will use [Leetcode](https://leetcode.com/) as my main source of coding questions and answering templates.
 * I will try to complete selected questions by tags in Leetcode. For each question,
@@ -27,7 +30,6 @@ they will be approached in a various aspects:
 * I will draw a knowledge graph that can represent the structure of all the
 problems and their underlying data structure and algorithms that we have processed
 so that readers can get a general idea of the big picture of data structures and algorithms.
-
 # Pre-requisites
 * **Basic knowledge of Python.** We will use Python3 and I will also try to cover some
 basic programming knowledge about Python

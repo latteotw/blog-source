@@ -32,6 +32,8 @@ gitalk:
 * Greedy
 * Backtracking
 
+<!-- more -->
+
 As you can see, we will try to focus on data structures first and then algorithms
 since I personally think that data structure are the fundamental for learning more
 advanced algorithms as algorithms are implemented with basic data structures. However,
