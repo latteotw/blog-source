@@ -6,8 +6,7 @@ tags:
   - Easy
   - Python-List
 categories:
-- Array
-- [Python, List]
+  - Array
 gitalk:
   id: /blog/1304/
 ---
