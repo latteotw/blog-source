@@ -10,7 +10,7 @@ gitalk:
 ---
 * **List Concatenation**
 
-  There are two ways two concatenate a list with another. One is to use ```>``` to concatenate a list. Another way is to use ```extend()``` function to concatenate
+  There are two ways two concatenate a list with another. One is to use ```+``` to concatenate a list. Another way is to use ```extend()``` function to concatenate
 
   ```python
   # Use + to concatenation a list
@@ -19,7 +19,7 @@ gitalk:
   C = A + B
   print(C) # ['a', 'p', 'p', 'l', 'e', 'b', 'a', 'n', 'a', 'n', 'a']
 
-  # Use extend function to concatenate
+  # Use extend() function to concatenate
   A.extend(B)
   print(A) # ['a', 'p', 'p', 'l', 'e', 'b', 'a', 'n', 'a', 'n', 'a']
   ```
