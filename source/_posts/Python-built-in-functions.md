@@ -53,3 +53,19 @@ gitalk:
       ```
 
     There are more advanced usage of range is discussed at [this post](https://pynative.com/python-range-function/).
+
+* **reversed()**
+
+  Python3 has reversed() as a built-in function which takes a ```seq``` as input. According to [Python's official documentation](https://docs.python.org/3/library/functions.html#reversed)
+  >seq must be an object which has a __reversed__() method or supports the sequence protocol (the __len__() method and the __getitem__() method with integer arguments starting at 0).
+
+  One thing to notice is that reversed() return an iterator. To make the iterator a list, you have co explicitly cast it. For example:
+  ```
+  >>> a = [1, 2, 3]
+  >>> b = reversed(a)
+  >>> b
+  <list_reverseiterator object at 0x1090762e8>
+  >>> list(b)
+  [3, 2, 1]
+  ```
+  It has O(N) time and space complexity.
