@@ -4,7 +4,7 @@ date: 2020-02-04 15:47:42
 tags:
   - Python-List
 categories:
-- [Python, List]
+- [Python]
 gitalk:
   id: /blog/python-list/
 ---
