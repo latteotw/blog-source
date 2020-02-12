@@ -69,3 +69,10 @@ gitalk:
   [3, 2, 1]
   ```
   It has O(N) time and space complexity.
+
+* **sorted()**
+
+  The function signature of the python built-in sorted() function is the following:
+  ```sorted(iterable, *, key=None, reverse=False)```
+
+  I would highly suggest you to read this official [Sorting HOW TO](https://docs.python.org/3/howto/sorting.html#sortinghowto) article from Python team. 
