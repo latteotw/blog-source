@@ -16,6 +16,9 @@ gitalk:
 * Stack
 * Queue
 * Linked list
+* Binary Search
+* BFS
+* DFS
 * Tree
 * Graph
 * Math
@@ -24,9 +27,6 @@ gitalk:
 * Sort
 * Heap
 * Divide and conquer
-* Binary Search
-* BFS
-* DFS
 * Union find
 * Dynamic programming
 * Greedy
